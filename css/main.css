@@ -1,0 +1,42 @@
+.grid-container {
+  max-width: 1080px;
+  position: relative;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+.centered {  margin: 0 auto; }
+
+ul.filter-select {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  background: #edeff0;
+
+}
+ul.filter-select li {
+  text-align: center;
+  display: table-cell;
+}
+
+ul.filter-select button {
+  width: 100%;
+  text-align: center;  background: none;
+  padding: 15px;
+  margin: 0;
+}
+
+
+#image_section img {
+  max-width: 80%;
+  max-height: 200px;
+}
+
+
+
+
+
+
+
